@@ -13,6 +13,11 @@
 This data aims at providing insight into the sales and profit generation of a manufacturing company over a six year period.
 By analyzing various aspect of the sales and profit data, we seek to identify trends, most profitable product and product category, region with highest revenue and profit and gain a deeper understanding of the company performance.
 
+## Dashboard
+
+![20240516_132700](https://github.com/Rachealkolo/Rachealkolo/assets/169672211/80485b2c-4684-431b-ab64-7c1e1c3a4b6b)
+
+
 ## Data Sources
 The primary dataset used for this analysis is the sales and profit data file, containing detailed information about each sale and profit made by the company.
 
